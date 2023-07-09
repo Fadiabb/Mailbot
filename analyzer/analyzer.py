@@ -9,8 +9,8 @@ from patterns import *
 TEXT = """
 Moin Bot,
 ich möchte einen Nutzer mit folgenden Informationen hinzufügen:
-Vorname: Mustermann, Nachname: Müller, geb. am: 04.04.1991, Anschrift:
-BeispielStraße 11 49074 Osnabrück, Arbeitsstunden: 30, Startdatum: 1-1-
+Vorname: Mustermann, Nachname: NachnameName, geb. am: 04.04.1991, Anschrift:
+BeispielStraße 00 1234 Stadt, Arbeitsstunden: 30, Startdatum: 1-1-
 2023, Enddatum: 31-12-2021, Arbeitsgruppe: XY Projekt-
 bezeichnung: HSP Urlaubsstunden: 20, Überstunden aus vorherigem Vertrag:
 10
