@@ -1,5 +1,5 @@
-# Mailbot
-**(WIP)**
+# Mailbot **(WIP)**
+
 Mailbot for reading emails and doing some jobs according to the content of the email. 
   
   
