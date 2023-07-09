@@ -1,6 +1,6 @@
 # Mailbot
 **(WIP)**
-Mailbot for reading emails and doing some jobs according on the content of the email. 
+Mailbot for reading emails and doing some jobs according to the content of the email. 
   
   
 ## Installation
